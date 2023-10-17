@@ -6,3 +6,5 @@ Gamebox Game Library
 
 Gamebox directly receives information from this repository
 
+TacoBurp - https://glebik228.github.io/gameboxgamelib/Taco%20Burp.sb3
+FrogCatcher - https://glebik228.github.io/gameboxgamelib/Frog%20Catcher!.zip.sb3
